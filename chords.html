@@ -12,19 +12,26 @@
     <title>The Octaves - Chords</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     
+    <style>
+        body {
+            padding-top: 70px; /* Adjust this value according to your navbar height */
+        }
+        .chordimg:hover {
+            opacity: 80%;
+        }
+    </style>
 </head>
-<style>
-    .chordimg:hover{
-        opacity: 80%;
-    }
-</style>
 <body>
-<nav class="navbar navbar-expand-lg navbar-light bg-light shadow-sm">
+<nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light shadow-sm">
     <a class="navbar-brand text-decoration-none" href="index.html">
-        <span class="img-fluid" data-toggle="tooltip" data-placement="bottom" title="Home"><img src="/images/logocrop.png"width="40" height="40"></span>
+        <span class="img-fluid" data-toggle="tooltip" data-placement="bottom" title="Home">
+            <img src="/images/logocrop.png" width="40" height="40">
+        </span>
     </a>
     <div class="navbar-header">
-        <a href="#" id="brand" class="text-decoration-none"><h1 class="h2">CHORDS</h1></a>
+        <a href="#" id="brand" class="text-decoration-none">
+            <h1 class="h2">CHORDS</h1>
+        </a>
     </div>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
             aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -37,7 +44,8 @@
         </form>
     </div>
 </nav>
-<!--ViewPhoto-->
+
+<!-- View Photo Modal -->
 <div class="modal fade" id="viewphoto" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog" role="document">
         <div class="modal-content">

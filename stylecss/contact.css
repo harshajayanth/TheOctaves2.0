@@ -19,3 +19,11 @@
     height: 100%;
     object-fit: cover; /* Ensures the image covers the div and maintains aspect ratio */
 }
+.profile-picture {
+    transition: transform 0.3s ease-in-out box-shadow 0.3s ease-in-out;
+}
+
+.profile-picture:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0px 35px rgba(15, 15, 15, 0.3);
+}

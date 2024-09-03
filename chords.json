@@ -2,7 +2,7 @@
     {
         "defval": "Cmaj",
         "cname": "C Major",
-        "cdesc": "The C major chord consists of the notes C, E, and G.",
+        "cdesc": "Bright and joyful, the C major chord (C, E, G) evokes feelings of triumph and simplicity.",
         "notes": "C, E, G",
         "rhand": "1-2-3",
         "lhand": "5-4-3",
@@ -12,7 +12,7 @@
     {
         "defval": "Cmin",
         "cname": "C Minor",
-        "cdesc": "The C minor chord consists of the notes C, E♭, and G.",
+        "cdesc": "The C minor chord (C, E♭, G) expresses sadness, introspection, and a more somber tone.",
         "notes": "C, E♭, G",
         "rhand": "1-2-3",
         "lhand": "5-4-3",
@@ -22,7 +22,7 @@
     {
         "defval": "Dmaj",
         "cname": "D Major",
-        "cdesc": "The D major chord consists of the notes D, F♯, and A.",
+        "cdesc": "D Major (D, F♯, A) is uplifting, energetic, and often used to convey happiness and vitality.",
         "notes": "D, F♯, A",
         "rhand": "1-2-3",
         "lhand": "5-4-3",
@@ -32,7 +32,7 @@
     {
         "defval": "Dmin",
         "cname": "D Minor",
-        "cdesc": "The D minor chord consists of the notes D, F, and A.",
+        "cdesc": "D Minor (D, F, A) is haunting and melancholic, often used to convey sorrow or longing.",
         "notes": "D, F, A",
         "rhand": "1-2-3",
         "lhand": "5-4-3",
@@ -42,7 +42,7 @@
     {
         "defval": "Emaj",
         "cname": "E Major",
-        "cdesc": "The E major chord consists of the notes E, G♯, and B.",
+        "cdesc": "E Major (E, G♯, B) is powerful and resolute, often conveying determination and confidence.",
         "notes": "E, G♯, B",
         "rhand": "1-2-3",
         "lhand": "5-4-3",
@@ -52,7 +52,7 @@
     {
         "defval": "Emin",
         "cname": "E Minor",
-        "cdesc": "The E minor chord consists of the notes E, G, and B.",
+        "cdesc": "E Minor (E, G, B) is reflective and emotional, often evoking feelings of sadness or nostalgia.",
         "notes": "E, G, B",
         "rhand": "1-2-3",
         "lhand": "5-4-3",
@@ -62,7 +62,7 @@
     {
         "defval": "Fmaj",
         "cname": "F Major",
-        "cdesc": "The F major chord consists of the notes F, A, and C.",
+        "cdesc": "F Major (F, A, C) is warm and harmonious, conveying calmness and stability.",
         "notes": "F, A, C",
         "rhand": "1-2-3",
         "lhand": "5-4-3",
@@ -72,7 +72,7 @@
     {
         "defval": "Fmin",
         "cname": "F Minor",
-        "cdesc": "The F minor chord consists of the notes F, A♭, and C.",
+        "cdesc": "F Minor (F, A♭, C) is deep and serious, often expressing a sense of sadness or tension.",
         "notes": "F, A♭, C",
         "rhand": "1-2-3",
         "lhand": "5-4-3",
@@ -82,7 +82,7 @@
     {
         "defval": "Gmaj",
         "cname": "G Major",
-        "cdesc": "The G major chord consists of the notes G, B, and D.",
+        "cdesc": "G Major (G, B, D) is lively and optimistic, often conveying happiness and celebration.",
         "notes": "G, B, D",
         "rhand": "1-2-3",
         "lhand": "5-4-3",
@@ -92,7 +92,7 @@
     {
         "defval": "Gmin",
         "cname": "G Minor",
-        "cdesc": "The G minor chord consists of the notes G, B♭, and D.",
+        "cdesc": "G Minor (G, B♭, D) is dark and introspective, often used to convey sorrow or introspection.",
         "notes": "G, B♭, D",
         "rhand": "1-2-3",
         "lhand": "5-4-3",
@@ -102,7 +102,7 @@
     {
         "defval": "Amaj",
         "cname": "A Major",
-        "cdesc": "The A major chord consists of the notes A, C♯, and E.",
+        "cdesc": "A Major (A, C♯, E) is bright and energetic, often associated with joy and confidence.",
         "notes": "A, C♯, E",
         "rhand": "1-2-3",
         "lhand": "5-4-3",
@@ -112,7 +112,7 @@
     {
         "defval": "Amin",
         "cname": "A Minor",
-        "cdesc": "The A minor chord consists of the notes A, C, and E.",
+        "cdesc": "A Minor (A, C, E) is emotional and somber, often evoking feelings of melancholy or introspection.",
         "notes": "A, C, E",
         "rhand": "1-2-3",
         "lhand": "5-4-3",
@@ -122,7 +122,7 @@
     {
         "defval": "Bmaj",
         "cname": "B Major",
-        "cdesc": "The B major chord consists of the notes B, D♯, and F♯.",
+        "cdesc": "B Major (B, D♯, F♯) is strong and assertive, often conveying a sense of determination.",
         "notes": "B, D♯, F♯",
         "rhand": "1-2-3",
         "lhand": "5-4-3",
@@ -132,7 +132,7 @@
     {
         "defval": "Bmin",
         "cname": "B Minor",
-        "cdesc": "The B minor chord consists of the notes B, D, and F♯.",
+        "cdesc": "B Minor (B, D, F♯) is somber and reflective, often expressing sadness or longing.",
         "notes": "B, D, F♯",
         "rhand": "1-2-3",
         "lhand": "5-4-3",

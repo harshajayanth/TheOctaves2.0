@@ -4,6 +4,7 @@
     filter: brightness(60%);
     border: white;
     border-radius: 30px;
+    height: 400px;
 }
 
 .bg-green:hover
@@ -28,6 +29,7 @@
     background-size: cover;
     border: white;
     border-radius: 15px;
+    height: 180px !important;
 }
 .jumbotron3
 {
@@ -35,6 +37,7 @@
     background-size: cover;
     border: white;
     border-radius: 15px;
+    height: 180px!important;
 }
 .jumbotron3:hover
 {
@@ -69,4 +72,9 @@ body{
 
 .hover-reveal:hover span {
     opacity: 0;
+}
+@media (max-width: 768px) {
+    .jumbotron1{
+        height: 200px !important;
+    }
 }

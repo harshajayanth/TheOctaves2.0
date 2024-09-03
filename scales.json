@@ -2,7 +2,7 @@
     {
         "defval": "Cmaj",
         "sname": "C Major Scale",
-        "sdesc": "The C major scale consists of the notes C, D, E, F, G, A, and B.",
+        "sdesc": "The C major scale has a bright, natural sound with no sharps or flats, consisting of C, D, E, F, G, A, B.",
         "notes": "C, D, E, F, G, A, B",
         "image": "Cmajorscale.png",
         "audio": "Cmajorscale.wav",
@@ -12,7 +12,7 @@
     {
         "defval": "Cmin",
         "sname": "C Minor Scale",
-        "sdesc": "The C minor scale consists of the notes C, D, E♭, F, G, A♭, and B♭.",
+        "sdesc": "The C minor scale evokes a melancholic tone, with E♭, A♭, and B♭ creating a distinct, somber sound.",
         "notes": "C, D, E♭, F, G, A♭, B♭",
         "image": "Cminorscale.png",
         "audio": "Cminorscale.wav",
@@ -22,7 +22,7 @@
     {
         "defval": "Dmaj",
         "sname": "D Major Scale",
-        "sdesc": "The D major scale consists of the notes D, E, F♯, G, A, B, and C♯.",
+        "sdesc": "The D major scale is uplifting and strong, featuring F♯ and C♯, creating a bright, energetic sound.",
         "notes": "D, E, F♯, G, A, B, C♯",
         "image": "Dmajorscale.png",
         "audio": "Dmajorscale.wav",
@@ -32,7 +32,7 @@
     {
         "defval": "Dmin",
         "sname": "D Minor Scale",
-        "sdesc": "The D minor scale consists of the notes D, E, F, G, A, B♭, and C.",
+        "sdesc": "The D minor scale has a haunting quality, with B♭ lending it a dark, introspective sound.",
         "notes": "D, E, F, G, A, B♭, C",
         "image": "Dminorscale.png",
         "audio": "Dminorscale.wav",
@@ -42,7 +42,7 @@
     {
         "defval": "Emaj",
         "sname": "E Major Scale",
-        "sdesc": "The E major scale consists of the notes E, F♯, G♯, A, B, C♯, and D♯.",
+        "sdesc": "The E major scale is bold and assertive, with G♯, C♯, and D♯ creating a vibrant sound.",
         "notes": "E, F♯, G♯, A, B, C♯, D♯",
         "image": "Emajorscale.png",
         "audio": "Emajorscale.wav",
@@ -52,7 +52,7 @@
     {
         "defval": "Emin",
         "sname": "E Minor Scale",
-        "sdesc": "The E minor scale consists of the notes E, F♯, G, A, B, C, and D.",
+        "sdesc": "The E minor scale is emotional and reflective, with no sharps or flats, conveying a deep sense of melancholy.",
         "notes": "E, F♯, G, A, B, C, D",
         "image": "Eminorscale.png",
         "audio": "Eminorscale.wav",
@@ -62,8 +62,8 @@
     {
         "defval": "Fmaj",
         "sname": "F Major Scale",
-        "sdesc": "The F major scale consists of the notes F, G, A, A♯, C, D, and E.",
-        "notes": "F, G, A, A♯, C, D, E",
+        "sdesc": "The F major scale is warm and stable, with B♭ providing a harmonious, peaceful sound.",
+        "notes": "F, G, A, B♭, C, D, E",
         "image": "Fmajorscale.png",
         "audio": "Fmajorscale.wav",
         "rhand": "1-2-3-4-5",
@@ -72,8 +72,8 @@
     {
         "defval": "Fmin",
         "sname": "F Minor Scale",
-        "sdesc": "The F minor scale consists of the notes F, G, A♭, A, C, D♭, and E♭.",
-        "notes": "F, G, A♭, A, C, D♭, E♭",
+        "sdesc": "The F minor scale is deep and serious, with A♭ and E♭ contributing to its introspective sound.",
+        "notes": "F, G, A♭, B♭, C, D♭, E♭",
         "image": "Fminorscale.png",
         "audio": "Fminorscale.wav",
         "rhand": "1-2-3-4-5",
@@ -82,7 +82,7 @@
     {
         "defval": "Gmaj",
         "sname": "G Major Scale",
-        "sdesc": "The G major scale consists of the notes G, A, B, C, D, E, and F♯.",
+        "sdesc": "The G major scale is bright and lively, with F♯ adding a touch of brilliance to its sound.",
         "notes": "G, A, B, C, D, E, F♯",
         "image": "Gmajorscale.png",
         "audio": "Gmajorscale.wav",
@@ -92,7 +92,7 @@
     {
         "defval": "Gmin",
         "sname": "G Minor Scale",
-        "sdesc": "The G minor scale consists of the notes G, A, B♭, C, D, E♭, and F.",
+        "sdesc": "The G minor scale is dark and somber, with B♭ and E♭ creating a rich, introspective tone.",
         "notes": "G, A, B♭, C, D, E♭, F",
         "image": "Gminorscale.png",
         "audio": "Gminorscale.wav",
@@ -102,7 +102,7 @@
     {
         "defval": "Amaj",
         "sname": "A Major Scale",
-        "sdesc": "The A major scale consists of the notes A, B, C♯, D, E, F♯, and G♯.",
+        "sdesc": "The A major scale is bright and confident, with C♯, F♯, and G♯ providing a lively, vibrant sound.",
         "notes": "A, B, C♯, D, E, F♯, G♯",
         "image": "Amajorscale.png",
         "audio": "Amajorscale.wav",
@@ -112,7 +112,7 @@
     {
         "defval": "Amin",
         "sname": "A Minor Scale",
-        "sdesc": "The A minor scale consists of the notes A, B, C, D, E, F, and G.",
+        "sdesc": "The A minor scale is natural and pure, with no sharps or flats, giving it a straightforward, emotional tone.",
         "notes": "A, B, C, D, E, F, G",
         "image": "Aminorscale.png",
         "audio": "Aminorscale.wav",
@@ -122,7 +122,7 @@
     {
         "defval": "Bmaj",
         "sname": "B Major Scale",
-        "sdesc": "The B major scale consists of the notes B, C♯, D♯, E, F♯, G♯, and A♯.",
+        "sdesc": "The B major scale is powerful and assertive, with D♯, G♯, and A♯ adding sharp clarity.",
         "notes": "B, C♯, D♯, E, F♯, G♯, A♯",
         "image": "Bmajorscale.png",
         "audio": "Bmajorscale.wav",
@@ -132,7 +132,7 @@
     {
         "defval": "Bmin",
         "sname": "B Minor Scale",
-        "sdesc": "The B minor scale consists of the notes B, C♯, D, E, F♯, G, and A.",
+        "sdesc": "The B minor scale is introspective and expressive, with C♯ and F♯ lending depth to its sound.",
         "notes": "B, C♯, D, E, F♯, G, A",
         "image": "Bminorscale.png",
         "audio": "Bminorscale.wav",

@@ -45,3 +45,27 @@
         transform: translateY(0); /* Reach the original position (no translation) */
     }
 }
+@media (max-width: 576px) {
+    #pianoimg, #pianokeys {
+        text-align: center;
+    }
+
+    #pianoimg img, .img-thumbnail {
+        width: 100%;
+        height: auto;
+    }
+
+    #brand h1 {
+        font-size: 1.5rem;
+    }
+
+    .tab-content img {
+        width: 100%;
+        height: auto;
+    }
+
+    .nav-pills {
+        flex-direction: row;
+        justify-content: center;
+    }
+}

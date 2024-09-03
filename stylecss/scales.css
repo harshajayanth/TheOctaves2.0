@@ -18,3 +18,24 @@ body {
     background-repeat: no-repeat;  
     background-position: center; 
 }
+.scaleimg {
+    width: 100%; /* Ensures image scales with the container */
+    height: auto;
+}
+.accordion-button {
+    font-size: 1rem;
+}
+@media (max-width: 768px) {
+    .accordion-button {
+        font-size: 0.9rem; /* Smaller font size for mobile */
+    }
+    .text-danger {
+        font-size: 1.2rem;
+    }
+    .text-success {
+        font-size: 1rem;
+    }
+    .card-body {
+        padding: 10px;
+    }
+}

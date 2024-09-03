@@ -1,0 +1,142 @@
+[
+    {
+        "defval": "Cmaj",
+        "sname": "C Major Scale",
+        "sdesc": "The C major scale consists of the notes C, D, E, F, G, A, and B.",
+        "notes": "C, D, E, F, G, A, B",
+        "image": "Cmajorscale.png",
+        "audio": "Cmajorscale.wav",
+        "rhand": "1-2-3-4-5",
+        "lhand": "5-4-3-2-1"
+    },
+    {
+        "defval": "Cmin",
+        "sname": "C Minor Scale",
+        "sdesc": "The C minor scale consists of the notes C, D, E♭, F, G, A♭, and B♭.",
+        "notes": "C, D, E♭, F, G, A♭, B♭",
+        "image": "Cminorscale.png",
+        "audio": "Cminorscale.wav",
+        "rhand": "1-2-3-4-5",
+        "lhand": "5-4-3-2-1"
+    },
+    {
+        "defval": "Dmaj",
+        "sname": "D Major Scale",
+        "sdesc": "The D major scale consists of the notes D, E, F♯, G, A, B, and C♯.",
+        "notes": "D, E, F♯, G, A, B, C♯",
+        "image": "Dmajorscale.png",
+        "audio": "Dmajorscale.wav",
+        "rhand": "1-2-3-4-5",
+        "lhand": "5-4-3-2-1"
+    },
+    {
+        "defval": "Dmin",
+        "sname": "D Minor Scale",
+        "sdesc": "The D minor scale consists of the notes D, E, F, G, A, B♭, and C.",
+        "notes": "D, E, F, G, A, B♭, C",
+        "image": "Dminorscale.png",
+        "audio": "Dminorscale.wav",
+        "rhand": "1-2-3-4-5",
+        "lhand": "5-4-3-2-1"
+    },
+    {
+        "defval": "Emaj",
+        "sname": "E Major Scale",
+        "sdesc": "The E major scale consists of the notes E, F♯, G♯, A, B, C♯, and D♯.",
+        "notes": "E, F♯, G♯, A, B, C♯, D♯",
+        "image": "Emajorscale.png",
+        "audio": "Emajorscale.wav",
+        "rhand": "1-2-3-4-5",
+        "lhand": "5-4-3-2-1"
+    },
+    {
+        "defval": "Emin",
+        "sname": "E Minor Scale",
+        "sdesc": "The E minor scale consists of the notes E, F♯, G, A, B, C, and D.",
+        "notes": "E, F♯, G, A, B, C, D",
+        "image": "Eminorscale.png",
+        "audio": "Eminorscale.wav",
+        "rhand": "1-2-3-4-5",
+        "lhand": "5-4-3-2-1"
+    },
+    {
+        "defval": "Fmaj",
+        "sname": "F Major Scale",
+        "sdesc": "The F major scale consists of the notes F, G, A, A♯, C, D, and E.",
+        "notes": "F, G, A, A♯, C, D, E",
+        "image": "Fmajorscale.png",
+        "audio": "Fmajorscale.wav",
+        "rhand": "1-2-3-4-5",
+        "lhand": "5-4-3-2-1"
+    },
+    {
+        "defval": "Fmin",
+        "sname": "F Minor Scale",
+        "sdesc": "The F minor scale consists of the notes F, G, A♭, A, C, D♭, and E♭.",
+        "notes": "F, G, A♭, A, C, D♭, E♭",
+        "image": "Fminorscale.png",
+        "audio": "Fminorscale.wav",
+        "rhand": "1-2-3-4-5",
+        "lhand": "5-4-3-2-1"
+    },
+    {
+        "defval": "Gmaj",
+        "sname": "G Major Scale",
+        "sdesc": "The G major scale consists of the notes G, A, B, C, D, E, and F♯.",
+        "notes": "G, A, B, C, D, E, F♯",
+        "image": "Gmajorscale.png",
+        "audio": "Gmajorscale.wav",
+        "rhand": "1-2-3-4-5",
+        "lhand": "5-4-3-2-1"
+    },
+    {
+        "defval": "Gmin",
+        "sname": "G Minor Scale",
+        "sdesc": "The G minor scale consists of the notes G, A, B♭, C, D, E♭, and F.",
+        "notes": "G, A, B♭, C, D, E♭, F",
+        "image": "Gminorscale.png",
+        "audio": "Gminorscale.wav",
+        "rhand": "1-2-3-4-5",
+        "lhand": "5-4-3-2-1"
+    },
+    {
+        "defval": "Amaj",
+        "sname": "A Major Scale",
+        "sdesc": "The A major scale consists of the notes A, B, C♯, D, E, F♯, and G♯.",
+        "notes": "A, B, C♯, D, E, F♯, G♯",
+        "image": "Amajorscale.png",
+        "audio": "Amajorscale.wav",
+        "rhand": "1-2-3-4-5",
+        "lhand": "5-4-3-2-1"
+    },
+    {
+        "defval": "Amin",
+        "sname": "A Minor Scale",
+        "sdesc": "The A minor scale consists of the notes A, B, C, D, E, F, and G.",
+        "notes": "A, B, C, D, E, F, G",
+        "image": "Aminorscale.png",
+        "audio": "Aminorscale.wav",
+        "rhand": "1-2-3-4-5",
+        "lhand": "5-4-3-2-1"
+    },
+    {
+        "defval": "Bmaj",
+        "sname": "B Major Scale",
+        "sdesc": "The B major scale consists of the notes B, C♯, D♯, E, F♯, G♯, and A♯.",
+        "notes": "B, C♯, D♯, E, F♯, G♯, A♯",
+        "image": "Bmajorscale.png",
+        "audio": "Bmajorscale.wav",
+        "rhand": "1-2-3-4-5",
+        "lhand": "5-4-3-2-1"
+    },
+    {
+        "defval": "Bmin",
+        "sname": "B Minor Scale",
+        "sdesc": "The B minor scale consists of the notes B, C♯, D, E, F♯, G, and A.",
+        "notes": "B, C♯, D, E, F♯, G, A",
+        "image": "Bminorscale.png",
+        "audio": "Bminorscale.wav",
+        "rhand": "1-2-3-4-5",
+        "lhand": "5-4-3-2-1"
+    }
+]

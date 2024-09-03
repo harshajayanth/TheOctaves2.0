@@ -1,0 +1,20 @@
+.bg-greeny
+{
+    background-color: palegreen;
+    border-radius: 15px;
+}
+.dropdown-menu {
+    max-height: 300px;
+    overflow-y : auto;
+}
+.bg-infos
+{
+    background-color: #779ac4;
+    border-radius: 15px;
+}
+body {
+    background-image: url('/images/landingpage.jpeg');
+    background-size: cover; 
+    background-repeat: no-repeat;  
+    background-position: center; 
+}

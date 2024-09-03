@@ -1,0 +1,47 @@
+.bg-violet{
+    color: darkviolet;
+}
+.fade-in-text {
+    opacity: 0; /* Set the initial opacity to 0 */
+    animation: fadeIn 1s linear forwards; /* Apply the fadeIn animation */
+}
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+        transform: translateX(30%); /* Start from the left of the container */
+    }
+    100% {
+        opacity: 1;
+        transform: translateX(0); /* Reach the original position (no translation) */
+    }
+}
+.fade-in-btn {
+    font-weight: bold;
+    opacity: 0; /* Set the initial opacity to 0 */
+    animation: fadeInbtn 1s linear forwards; /* Apply the fadeIn animation */
+}
+@keyframes fadeInbtn {
+    0% {
+        opacity: 0;
+        transform: translateY(40%); /* Start from the left of the container */
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0); /* Reach the original position (no translation) */
+    }
+}
+.fade-in-btn1 {
+    font-weight: bold;
+    opacity: 0; /* Set the initial opacity to 0 */
+    animation: fadeInbtn1 1s linear forwards; /* Apply the fadeIn animation */
+}
+@keyframes fadeInbtn1 {
+    0% {
+        opacity: 0;
+        transform: translateY(-40%); /* Start from the left of the container */
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0); /* Reach the original position (no translation) */
+    }
+}

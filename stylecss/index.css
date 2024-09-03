@@ -1,0 +1,72 @@
+.jumbotron1 {
+    background-image: url("/images/Cover.png");
+    background-size: cover;
+    filter: brightness(60%);
+    border: white;
+    border-radius: 30px;
+}
+
+.bg-green:hover
+{
+    background-color: palegreen;
+    border-radius: 15px;
+}
+
+.bg-skyblue:hover
+{
+    background-color: #b7d9e7;
+    border-radius: 15px;
+}
+.bg-yellow:hover
+{
+    background-color: #ffeeb6;
+    border-radius: 15px;
+}
+.jumbotron2
+{
+    background-image: url("/images/Ragas.jpg");
+    background-size: cover;
+    border: white;
+    border-radius: 15px;
+}
+.jumbotron3
+{
+    background-image: url("/images/Ragas.jpg");
+    background-size: cover;
+    border: white;
+    border-radius: 15px;
+}
+.jumbotron3:hover
+{
+    opacity: 85%;
+}
+.jumbotron2:hover
+{
+    opacity: 85%;
+}
+body{
+    background-image: url('/images/landingpage.jpeg');
+    background-size: cover; 
+    background-repeat: no-repeat;  
+    background-position: center; 
+}
+.hover-reveal h6 {
+    opacity: 0;
+    width: 0;
+    overflow: hidden;
+    transition: width 0.3s ease, opacity 0.3s ease;
+    white-space: nowrap;
+}
+
+.hover-reveal span {
+    transition: opacity 0.3s ease;
+}
+
+.hover-reveal:hover h6 {
+    width: 250px; /* Adjust based on your design */
+    opacity: 1;
+}
+
+.hover-reveal:hover span {
+    opacity: 0;
+}

@@ -1,0 +1,142 @@
+[
+    {
+        "defval": "Cmaj",
+        "cname": "C Major",
+        "cdesc": "The C major chord consists of the notes C, E, and G.",
+        "notes": "C, E, G",
+        "rhand": "1-2-3",
+        "lhand": "5-4-3",
+        "image": "Cmajorchord.png",
+        "audio": "Cmajorchord.wav"
+    },
+    {
+        "defval": "Cmin",
+        "cname": "C Minor",
+        "cdesc": "The C minor chord consists of the notes C, E♭, and G.",
+        "notes": "C, E♭, G",
+        "rhand": "1-2-3",
+        "lhand": "5-4-3",
+        "image": "Cminorchord.png",
+        "audio": "Cminorchord.wav"
+    },
+    {
+        "defval": "Dmaj",
+        "cname": "D Major",
+        "cdesc": "The D major chord consists of the notes D, F♯, and A.",
+        "notes": "D, F♯, A",
+        "rhand": "1-2-3",
+        "lhand": "5-4-3",
+        "image": "Dmajorchord.png",
+        "audio": "Dmajorchord.wav"
+    },
+    {
+        "defval": "Dmin",
+        "cname": "D Minor",
+        "cdesc": "The D minor chord consists of the notes D, F, and A.",
+        "notes": "D, F, A",
+        "rhand": "1-2-3",
+        "lhand": "5-4-3",
+        "image": "Dminorchord.png",
+        "audio": "Dminorchord.wav"
+    },
+    {
+        "defval": "Emaj",
+        "cname": "E Major",
+        "cdesc": "The E major chord consists of the notes E, G♯, and B.",
+        "notes": "E, G♯, B",
+        "rhand": "1-2-3",
+        "lhand": "5-4-3",
+        "image": "Emajorchord.png",
+        "audio": "Emajorchord.wav"
+    },
+    {
+        "defval": "Emin",
+        "cname": "E Minor",
+        "cdesc": "The E minor chord consists of the notes E, G, and B.",
+        "notes": "E, G, B",
+        "rhand": "1-2-3",
+        "lhand": "5-4-3",
+        "image": "Eminorchord.png",
+        "audio": "Eminorchord.wav"
+    },
+    {
+        "defval": "Fmaj",
+        "cname": "F Major",
+        "cdesc": "The F major chord consists of the notes F, A, and C.",
+        "notes": "F, A, C",
+        "rhand": "1-2-3",
+        "lhand": "5-4-3",
+        "image": "Fmajorchord.png",
+        "audio": "Fmajorchord.wav"
+    },
+    {
+        "defval": "Fmin",
+        "cname": "F Minor",
+        "cdesc": "The F minor chord consists of the notes F, A♭, and C.",
+        "notes": "F, A♭, C",
+        "rhand": "1-2-3",
+        "lhand": "5-4-3",
+        "image": "Fminorchord.png",
+        "audio": "Fminorchord.wav"
+    },
+    {
+        "defval": "Gmaj",
+        "cname": "G Major",
+        "cdesc": "The G major chord consists of the notes G, B, and D.",
+        "notes": "G, B, D",
+        "rhand": "1-2-3",
+        "lhand": "5-4-3",
+        "image": "Gmajorchord.png",
+        "audio": "Gmajorchord.wav"
+    },
+    {
+        "defval": "Gmin",
+        "cname": "G Minor",
+        "cdesc": "The G minor chord consists of the notes G, B♭, and D.",
+        "notes": "G, B♭, D",
+        "rhand": "1-2-3",
+        "lhand": "5-4-3",
+        "image": "Gminorchord.png",
+        "audio": "Gminorchord.wav"
+    },
+    {
+        "defval": "Amaj",
+        "cname": "A Major",
+        "cdesc": "The A major chord consists of the notes A, C♯, and E.",
+        "notes": "A, C♯, E",
+        "rhand": "1-2-3",
+        "lhand": "5-4-3",
+        "image": "Amajorchord.png",
+        "audio": "Amajorchord.wav"
+    },
+    {
+        "defval": "Amin",
+        "cname": "A Minor",
+        "cdesc": "The A minor chord consists of the notes A, C, and E.",
+        "notes": "A, C, E",
+        "rhand": "1-2-3",
+        "lhand": "5-4-3",
+        "image": "Aminorchord.png",
+        "audio": "Aminorchord.wav"
+    },
+    {
+        "defval": "Bmaj",
+        "cname": "B Major",
+        "cdesc": "The B major chord consists of the notes B, D♯, and F♯.",
+        "notes": "B, D♯, F♯",
+        "rhand": "1-2-3",
+        "lhand": "5-4-3",
+        "image": "Bmajorchord.png",
+        "audio": "Bmajorchord.wav"
+    },
+    {
+        "defval": "Bmin",
+        "cname": "B Minor",
+        "cdesc": "The B minor chord consists of the notes B, D, and F♯.",
+        "notes": "B, D, F♯",
+        "rhand": "1-2-3",
+        "lhand": "5-4-3",
+        "image": "Bminorchord.png",
+        "audio": "Bminorchord.wav"
+    }
+]

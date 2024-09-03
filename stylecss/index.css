@@ -77,4 +77,10 @@ body{
     .jumbotron1{
         height: 200px !important;
     }
+    body{
+        padding-top: 80px;
+        padding-bottom: 80px;
+        min-height: 100vh;
+        margin: 0;
+    }
 }

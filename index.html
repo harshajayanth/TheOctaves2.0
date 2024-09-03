@@ -23,7 +23,7 @@
 <body>
 <nav class="navbar fixed-top navbar-expand-lg bg-light navbar-light shadow-sm">
     <div class="container-fluid">
-        <div class="navbar-header">
+        <div class="navbar-header pl-3">
             <img src="/images/logocrop.png" class="img-fluid" width="60" height="30">&nbsp;
             <a class="navbar-brand" href="#"><h4 class="pt-2 text-success">The Octaves</h4></a>
         </div>
@@ -31,17 +31,11 @@
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="container row col-12 collapse navbar-collapse" id="navbarNav">
-            <ul class="nav mt-4">
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="nav">
                 <li class="nav-item active"><a class="nav-link" id="home" href="#home">Home</a></li>
                 <li class="nav-item"><a class="nav-link" href="#contact" id="contact">Contact</a></li>
             </ul>
-            <div class="d-flex justify-content-end">
-                <a href="https://harshajayanth.github.io/TheOctavemidi.in/" target="_blank" class="nav-link text-primary align-items-center hover-reveal">
-                    <h6 class="mb-0">Try TheOctavemidi (Beta) now</h6>
-                    <span class="material-icons h6 ms-2">open_in_new</span>
-                </a>
-            </div>
         </div>
     </div>
 </nav>
@@ -120,8 +114,17 @@
 <div id="workpage"></div>
 <div id="contactpage"></div>
 
-<footer class="fixed-bottom" style="text-align: center; padding: 10px; background-color: #f1f1f1; text-decoration: none;">
-    <p>&copy; 2024 Developed by <a href="https://github.com/harshajayanth" target="_blank">Harsha Jayanth</a>. All rights reserved.</p>
+<footer class="fixed-bottom d-flex justify-content-center" style="text-align: center; padding: 10px; background-color: #f1f1f1; text-decoration: none;">
+    <div class="container-fluid row d-flex justify-content-between">
+        <div class="col-10">
+        <p>&copy; 2024 Developed by <a href="https://github.com/harshajayanth" target="_blank">Harsha Jayanth</a>. All rights reserved.</p>
+        </div>
+        <div class="col-1 d-flex justify-content-end">
+            <a href="https://harshajayanth.github.io/TheOctavemidi.in/" target="_blank" class="nav-link text-primary align-items-center hover-reveal">
+                <h6 class="mb-0">Try TheOctavemidi (Beta) now</h6>
+                <span class="material-icons h6 ms-2">open_in_new</span>
+            </a>
+        </div></div></div>
 </footer>
 
 

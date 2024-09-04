@@ -86,4 +86,9 @@ body{
     .footer a{
         display: none;
     }
+    .col-10 p{
+        text-align: center;
+        margin: 1 auto;
+        width: 120%;
+    }
 }

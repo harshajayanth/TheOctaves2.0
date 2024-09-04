@@ -83,11 +83,7 @@ body{
         min-height: 100vh;
         margin: 0;
     }
-    .hover-reveal:hover h6 {
-       opacity: 0;
-       width: 0;
+    .footer a{
+        display: none;
     }
-    .hover-reveal:hover span{
-        opacity: 1;
-     }
 }
